@@ -1,5 +1,7 @@
-# Sakou's 
+# Sakou's hub
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sakousi&count_private=true&theme=dark&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakousi&layout=compact&langs_count=10&theme=dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakousi&theme=monokai)
+
+![Top Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakousi&theme=monokai)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakousi&theme=monokai)
